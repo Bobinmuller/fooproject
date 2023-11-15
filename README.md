@@ -1,0 +1,2 @@
+# fooproject
+this ridiculous thing
